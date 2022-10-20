@@ -1,0 +1,36 @@
+body {
+    background-color: #4761ac;
+    margin: 0;
+    font-family: "Avenir Book";
+    color: #282b33;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+@font-face {
+    font-family: "Avenir Book";
+    font-style: normal;
+    font-weight: 400;
+    src: url("./common/fonts/AvenirLTStd-Book.otf");
+    src: url("./common/fonts/AvenirLTStd-Book.otf") format("otf");
+}
+
+@font-face {
+    font-family: "Avenir Black";
+    font-style: normal;
+    font-weight: 400;
+    src: url("./common/fonts/AvenirLTStd-Black.otf");
+    src: url("./common/fonts/AvenirLTStd-Black.otf") format("otf");
+}
+
+@font-face {
+    font-family: "Avenir Black";
+    font-style: normal;
+    font-weight: 400;
+    src: url("./common/fonts/AvenirLTStd-Roman.otf");
+    src: url("./common/fonts/AvenirLTStd-Roman.otf") format("otf");
+}
